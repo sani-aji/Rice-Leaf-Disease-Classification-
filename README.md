@@ -1,1 +1,1 @@
-# Rice-Leaf-Disease-Classification-
+In this repository, you can find a comprehensive Deep Learning project for the classification of rice leaf diseases using PyTorch. The aim of the project is to provide automated early rice leaf disease classification and detection in order to provide Nigerian farmers, as well as the Nigerian agricultural sector with proper suggestions on different diseases that may affect rice farms so that proper measures can be put in place to ensure saustainable rice farming which will eventually bring food security and availability in the country.
